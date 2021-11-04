@@ -607,9 +607,6 @@ text-decoration: none;
     padding-left:15px ;
     outline: none;
  }
- .Modal-inner{
-    
- }
  .modal-shopping-cart
  {
      border-radius:3px ;
@@ -936,9 +933,6 @@ input[type="checkbox"]{
     padding: 10px 5px;
     cursor: pointer;
   }
-  .course-card__details-icon {
-
-  }
   .course-card__details-icon i {
     font-size: 20px;
     color: white;
@@ -979,8 +973,6 @@ input[type="checkbox"]{
   .section {
     height: 4000px;
     padding: 96px 0 !important;
-  }
-  .section__header {
   }
   .section__header-title h1 {
     text-align: center;
